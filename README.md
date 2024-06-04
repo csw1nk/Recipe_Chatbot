@@ -19,7 +19,7 @@
 ## Clone the Repository
 ## First, clone the repository from GitHub:
 
-### git clone https://github.com/GttB96/Project4/
+### git clone https://github.com/csw1nk/Recipe_Chatbot.git
 ### in your terminal: go to repo Project4/ - touch .env - add PINECONE_API_KEY=[YOUR API KEY]
 ### then go to the repo: cd Project4/streamlit
 
